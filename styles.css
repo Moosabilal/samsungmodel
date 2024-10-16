@@ -1,0 +1,13 @@
+*{
+    font-family: 'SamsungOne',arial,sans-serif;
+    
+}
+.navbar-brand img{
+    height: 1.5rem;
+    width: 7rem;
+    
+}
+
+.nav-link .dropdown-toggle::after {
+    display: none;
+  }
